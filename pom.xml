@@ -17,8 +17,8 @@
   <distributionManagement>
 
 		<repository>
-			<id>repoR</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoR/</url>
+			<id>sandeep2</id>
+			<url>http://localhost:8081/nexus/content/repositories/sandeep2/</url>
 		</repository>
 		<snapshotRepository>
 			<id>repoS</id>
