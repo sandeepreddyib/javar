@@ -4,7 +4,7 @@
   <groupId>com.maaven.practice</groupId>
   <artifactId>myapp</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.3</version>
   
   <dependencies>
     <dependency>
@@ -21,8 +21,8 @@
 			<url>http://localhost:8081/nexus/content/repositories/sandeep2/</url>
 		</repository>
 		<snapshotRepository>
-			<id>repoS</id>
-			<url>http://localhost:8080/nexus-2.14.1-01/content/repositories/repoS/</url>
+			<id>dhanush</id>
+			<url>https://github.com/sandeepreddyib/javar.git</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
